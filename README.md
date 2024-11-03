@@ -20,15 +20,14 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
-- 🔭 Currently Working on several Computer Vision projects.
+- 🔭 Currently Working on several Data Science projects.
 - 🧮 Expanding my knowledge in differential geometry and Lie algebra.
-- 👯 Eager to collaborate on exciting Computer Vision research projects.
-- 🤔 Actively looking for Ph.D. opportunities in computer vision and machine learning.
+- 👯 Eager to collaborate on exciting Data Science research projects.
+- 🤔 Actively looking for Masters opportunities in Data Science or Machine learning.
 - 💬 Ask me about anything related to cutting-edge tech and research.
-- 📫 Reach me at: [Gmail](mailto:mirsazzathossain@gmail.com)
+- 📫 Reach me at: [Gmail](mailto:abdulrafay.aftab2@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
-- 📝 I sometimes write articles on [my blog](https://mirsazzathossain.me/articles).
+- 🧾 Check out my [resume](https://github.com/user-attachments/files/17611411/A.Rafay.pdf).
 - ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea...
