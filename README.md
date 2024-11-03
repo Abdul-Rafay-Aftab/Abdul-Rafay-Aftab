@@ -88,26 +88,18 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 </p>
 <br>
 
-## 🎧 Spotify Playing:
-
-<p align="center">
-    <a href="https://open.spotify.com/user/6stg0uh40gbo4bd99reck41s6" target="_blank"> 
-        <img width="100%" src="https://spotify-playing-now-phi.vercel.app/api/spotify" alt="Sazzat's Spotify" />
-    </a>
-</p>
-<br>
 
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mirsazzathossain&column=8&row=1">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdul-rafay-aftab&column=8&row=1">
 </p>
 <br>
 
 ## 📈 GitHub Contribution Graph:
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=mirsazzathossain&theme=minimal"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rafay-aftab&theme=minimal"/>
 </div>
 <br>
 
