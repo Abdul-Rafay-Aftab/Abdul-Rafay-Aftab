@@ -30,9 +30,7 @@ Feel free to reach out to discuss **ideas** or ask research-related questions �
 - 🧾 Check out my [resume](https://github.com/user-attachments/files/17611411/A.Rafay.pdf).
 - ⚡ Fun fact: I spend more time thinking about blog posts than writing them 🤣
 
-&nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea...
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
 <br>
 
 ## 🛠️ Languages and Tools I use:
